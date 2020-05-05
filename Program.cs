@@ -21,7 +21,7 @@ namespace Chicken
                  Console.WriteLine("" + stringOne + " is a Palindrome!");
             } else 
             {
-                 Console.WriteLine("" + stringOne + " is not a palindrome lmao im a pussy i use riot shield");
+                 Console.WriteLine("" + stringOne + " is not a palindrome");
             }
         }
     }
